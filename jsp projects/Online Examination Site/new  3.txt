@@ -1,0 +1,24 @@
+
+<fieldset style="width:32.097%;height:450%;background-color:white;float:left;border:none;margin-left:-1.7">
+
+<fieldset style="width:90%;height:100%;background-color:skyblue;margin-top:-19px">
+<font face="arial black" size=4 color=Red>
+<center><br>
+ADIMINISTRATOR
+</center>
+ <img src="B.jpg" width=95% height=30%>
+	<table cellspacing=10>
+	<tr>
+	<td>Name</td><td><input type=text></td>
+	</tr>
+	<tr>
+	<td>Password</td><td><input type=text></td>
+	</tr>
+	</table>
+	<center><input type=button value=LOGIN name=b1 Style="background-color:#c5cdcf;margin-top:-5px;width:70px;height:30px;border-radius:40px;border:none"></center>
+	</fieldset>
+	
+	<center>
+	<tr>
+	
+</fieldset>
